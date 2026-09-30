@@ -2,7 +2,7 @@
 
 An end-to-end machine-learning project that estimates the risk of heart disease from 13 clinical values. It includes model comparison and tuning, probability calibration, explainable AI (SHAP), a what-if simulator, personalised daily-life advice, and a Streamlit web app.
 
-**Live demo:** _add your Streamlit link here_ (for example `https://your-app.streamlit.app`)
+**Live demo:** https://heart-disease-diagnostics-rlkocf7gjsnnzutsgubiba.streamlit.app/
 
 > ⚠️ **Educational project only.** This is not a medical device and does not give a medical diagnosis. Always consult a qualified doctor for real health decisions.
 
@@ -187,7 +187,5 @@ print(predict(patient))
 
 Python, pandas, NumPy, scikit-learn, XGBoost, LightGBM, SHAP, matplotlib, Streamlit.
 
-## Author
 
-**Your Name**: add your GitHub / LinkedIn link here.
 
